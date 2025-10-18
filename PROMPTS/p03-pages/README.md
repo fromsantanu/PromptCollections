@@ -38,6 +38,6 @@ and trigger a workflow in langchain to generate a general advice on test prescri
    1. Sentiment (column).
    2. Percentage (column). This workflow will also send json data necessary to generate plots. This API will be triggered by a button in admin screen in the Php MVC system that we discussed earlier.  
 
-[**Refer to the detailed prompt here**](#)
+[**Refer to the detailed prompt here**](https://github.com/fromsantanu/PromptCollections/blob/main/PROMPTS/p03-pages/p03.md)
 
  

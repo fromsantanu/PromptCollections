@@ -35,8 +35,9 @@ and trigger a workflow in langchain to generate a general advice on test prescri
 2) A POST service for recording patients feedback. Patient will provide his unique id, name, gender, age, religion, review comment on the faciity.
 
 3) A GET service that will trigger a workflow in langchain to do a sentiment analysis updating two fields in the feedback record of each of the above rows
-   1. sentiment
-   2.  percentage. This workflow will also send json data necessary to generate plots. This API will be triggered by a button in admin screen in the Php MVC system that we discussed earlier.  
+   1. Sentiment (column).
+   2. Percentage (column). This workflow will also send json data necessary to generate plots. This API will be triggered by a button in admin screen in the Php MVC system that we discussed earlier.  
 
+[**Refer to the detailed prompt here**](#)
 
  

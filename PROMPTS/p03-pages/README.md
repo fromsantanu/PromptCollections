@@ -22,7 +22,7 @@
       - It will enable the admin to run sentiment analysis for feedbacks that have been received today
       - get data to generate report and plots.
    4. The entire activity will be built using two prompts
-      - The first prompt will only set up the required environment.  [**Refer to the first prompt here**](#)
+      - The first prompt will only set up the required environment.  [**Refer to the first prompt here**](https://github.com/fromsantanu/PromptCollections/blob/main/PROMPTS/p03-pages/p01.md)
       - In the second phase the actual pages will be createdwhich we will do with the second prompt. [**Refer to the second prompt here**](#)
 
 ### The Backend 
